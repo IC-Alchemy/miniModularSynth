@@ -1,4 +1,8 @@
 # miniModularSynth
+![image](https://github.com/user-attachments/assets/43e60d6d-3de6-4cbe-aabd-5aeecd0bb9f6)
+
+![image](https://github.com/user-attachments/assets/eb2c0d51-f5ec-4262-a54c-119b0abcf2e9)
+
 Many tiny open source hardware synth modules (miniLFO, MiniVCA, MiniMix, MiniVCF, MiniEnv, miniPower) combine to make a tiny modular.
 STILL A WORK IN PROGRESS,  I will be uploading Kicad schematics and PCB's over the first half of April 2025
 
